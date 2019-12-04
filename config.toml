@@ -1,0 +1,3 @@
+baseURL = "https://learning-cloud-native-go.github.io/"
+languageCode = "en-us"
+title = "Learning Cloud Native Go"
